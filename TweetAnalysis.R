@@ -24,10 +24,10 @@ library(tidytext)
 
 
 #Twitter Dev Keys
-consumerKey <-"MGVRn15j2DLuDXmimfKV0s2vs"
-consumerSecret <-"Ah8a6HkFvgsWkwAS3MY7uftq8Rh6TIPUQKOwxw8H9rjVCikxtk"
-accessToken <- "240674330-l6x04wZ59zJni7Aoy37H5re9raCDYPkJrZH3wuFS"
-accessTokenSecret <-"zyJsBlM4SgpflawPFOYd9bUZNq0zyxaArLN2dWjIPhGvR"
+consumerKey <-"XXXXXXXXXXXXXXXXXXXXXXXx"
+consumerSecret <-"YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY"
+accessToken <- "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"
+accessTokenSecret <-"ooooooooooooooooooooooooooooooooo"
 
 
 #Twitter token
